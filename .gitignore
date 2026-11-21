@@ -1,0 +1,12 @@
+# نظام التشغيل / المحررات
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+# ملفات مؤقتة
+*.tmp
+*~
+# نسخ احتياطية
+*.bak
+battery_platform_v9*.html
